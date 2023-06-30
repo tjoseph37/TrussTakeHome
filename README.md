@@ -18,6 +18,7 @@ https://docs.docker.com/engine/install/
 https://go.dev/dl/
 
 # Additional features I would've liked to implement 
-2. More thorough testing
-3. Telemetry
-4. A makefile that's portable 
+- More thorough testing
+- Additional validation requirements
+- Better logging
+- Dockerized 
